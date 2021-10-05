@@ -1,0 +1,7 @@
+D:\C# VSCODE2019\PAT\FirstConsoleApp_050\FirstConsoleApp_050\bin\Debug\FirstConsoleApp_050.exe.config
+D:\C# VSCODE2019\PAT\FirstConsoleApp_050\FirstConsoleApp_050\bin\Debug\FirstConsoleApp_050.exe
+D:\C# VSCODE2019\PAT\FirstConsoleApp_050\FirstConsoleApp_050\bin\Debug\FirstConsoleApp_050.pdb
+D:\C# VSCODE2019\PAT\FirstConsoleApp_050\FirstConsoleApp_050\obj\Debug\FirstConsoleApp_050.csproj.AssemblyReference.cache
+D:\C# VSCODE2019\PAT\FirstConsoleApp_050\FirstConsoleApp_050\obj\Debug\FirstConsoleApp_050.csproj.CoreCompileInputs.cache
+D:\C# VSCODE2019\PAT\FirstConsoleApp_050\FirstConsoleApp_050\obj\Debug\FirstConsoleApp_050.exe
+D:\C# VSCODE2019\PAT\FirstConsoleApp_050\FirstConsoleApp_050\obj\Debug\FirstConsoleApp_050.pdb
